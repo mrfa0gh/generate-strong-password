@@ -6,7 +6,7 @@ generate-strong-password in few seconds with easy script + simple ui
 # How to use?
  Just open Script and follow instructions will shown to you
 
-# generate Example (AbcD@#$!!25139%$#^#$czxaquyt) 
+generate Example (AbcD@#$!!25139%$#^#$czxaquyt) 
 
 
 # what do you need ?
